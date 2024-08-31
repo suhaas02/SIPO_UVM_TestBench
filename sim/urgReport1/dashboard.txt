@@ -1,0 +1,21 @@
+Dashboard
+
+Date: Thu Aug 29 10:32:24 2024
+
+User: VegiJ
+
+Version: T-2022.06-SP1
+Command line: urg -dir mem_cov1.vdb -format both -report urgReport1
+Number of tests: 1
+
+-------------------------------------------------------------------------------
+Total Coverage Summary 
+SCORE  GROUP  
+ 58.33  58.33 
+
+
+-------------------------------------------------------------------------------
+Total Groups Coverage Summary 
+SCORE  WEIGHT 
+ 58.33 1      
+

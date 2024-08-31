@@ -1,0 +1,108 @@
+Group : sipo_pkg::scoreboard::packet
+
+===============================================================================
+Group : sipo_pkg::scoreboard::packet
+===============================================================================
+SCORE  WEIGHT GOAL   AT LEAST AUTO BIN MAX PRINT MISSING 
+ 58.33 1      100    1        64           64            
+
+
+Source File(s) : 
+
+/home1/BPRN08/VegiJ/VLSI_RN/UVM_LABS/UVM_Verification_Projects/SIPO/sim/../tb/scoreboard.sv
+
+
+
+-------------------------------------------------------------------------------
+
+Summary for Group   sipo_pkg::scoreboard::packet
+
+
+
+CATEGORY  EXPECTED UNCOVERED COVERED PERCENT 
+Variables 8        3         5       58.33   
+
+
+Variables for Group  sipo_pkg::scoreboard::packet
+
+
+VARIABLE EXPECTED UNCOVERED COVERED PERCENT GOAL WEIGHT AT LEAST AUTO BIN MAX COMMENT 
+data_in  2        1         1       50.00   100  1      1        2                    
+rst_sig  2        1         1       50.00   100  1      1        2                    
+data_out 4        1         3       75.00   100  1      1        0                    
+
+
+-------------------------------------------------------------------------------
+
+Summary for Variable data_in
+
+
+CATEGORY                     EXPECTED UNCOVERED COVERED PERCENT 
+Automatically Generated Bins 2        1         1       50.00   
+
+
+Automatically Generated Bins for data_in
+
+
+Uncovered bins
+
+NAME      COUNT AT LEAST NUMBER 
+[auto[1]] 0     1        1      
+
+
+Covered bins
+
+NAME    COUNT AT LEAST 
+auto[0] 7     1        
+
+
+-------------------------------------------------------------------------------
+
+Summary for Variable rst_sig
+
+
+CATEGORY                     EXPECTED UNCOVERED COVERED PERCENT 
+Automatically Generated Bins 2        1         1       50.00   
+
+
+Automatically Generated Bins for rst_sig
+
+
+Uncovered bins
+
+NAME      COUNT AT LEAST NUMBER 
+[auto[1]] 0     1        1      
+
+
+Covered bins
+
+NAME    COUNT AT LEAST 
+auto[0] 7     1        
+
+
+-------------------------------------------------------------------------------
+
+Summary for Variable data_out
+
+
+CATEGORY          EXPECTED UNCOVERED COVERED PERCENT 
+User Defined Bins 4        1         3       75.00   
+
+
+User Defined Bins for data_out
+
+
+Uncovered bins
+
+NAME COUNT AT LEAST NUMBER 
+two  0     1        1      
+
+
+Covered bins
+
+NAME  COUNT AT LEAST 
+four  1     1        
+three 1     1        
+one   5     1        
+
+

@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1724907727.833098629, "rt":12.53, "ut":12.34, "st":0.30}}
+{"vcselab":{"timestamp_begin":1724907740.430602615, "rt":0.47, "ut":0.22, "st":0.07}}
+{"link":{"timestamp_begin":1724907740.950283367, "rt":0.86, "ut":0.60, "st":0.19}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1724907727.203149253}
+{"VCS_COMP_START_TIME": 1724907727.203149253}
+{"VCS_COMP_END_TIME": 1724907743.733586402}
+{"VCS_USER_OPTIONS": "-l vcs.log -timescale=1ns/1ps -sverilog -ntb_opts uvm -debug_access+all -full64 -kdb -lca -P /home/cad/eda/SYNOPSYS/VERDI_2022/verdi/T-2022.06-SP1/share/PLI/VCS/LINUX64/novas.tab /home/cad/eda/SYNOPSYS/VERDI_2022/verdi/T-2022.06-SP1/share/PLI/VCS/LINUX64/pli.a ../rtl/dff.v ../rtl/sipo_if.sv ../rtl/sipo.v +incdir+../tb +incdir+../test +incdir+../agent ../test/sipo_pkg.sv ../tb/top.sv"}
+{"vcs1": {"peak_mem": 4090704}}
+{"stitch_vcselab": {"peak_mem": 4092612}}
